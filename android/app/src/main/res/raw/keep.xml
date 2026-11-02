@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- O geolocator procura o ícone da notificação pelo nome (getIdentifier).
+     Sem isto, o build release poderia remover o recurso por achar que não é usado. -->
+<resources xmlns:tools="http://schemas.android.com/tools"
+    tools:keep="@drawable/ic_notificacao_coleta" />

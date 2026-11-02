@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Cor de papel do caderno de campo, atrás do desenho do ícone. -->
+    <color name="icone_localizacoes_fundo">#F3EDE0</color>
+</resources>
